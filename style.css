@@ -1,0 +1,17 @@
+
+header, main {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    box-shadow: 0 0 100px purple;
+    background: linear-gradient(purple, darkblue);
+}
+
+button {
+    width: 80px;
+}
+
+body {
+    background: linear-gradient(purple, darkblue);
+    box-shadow: 0 0 999px purple;
+}
